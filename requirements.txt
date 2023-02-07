@@ -196,7 +196,6 @@ stable-baselines==2.10.2
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 stardist==0.8.3
 statsmodels==0.13.5
-streamlit==1.17.0
 superqt==0.4.1
 sympy==1.11.1
 tensorboard @ file:///tmp/build/80754af9/tensorboard_1633093581375/work/tensorboard-2.6.0-py3-none-any.whl
